@@ -14,8 +14,8 @@ It has following features:
 To quickly install and use it, use this following method:
 
 git clone https://github.com/acubura/python-learning-ai-assistant.git
-cd python-learning-ai-assistant
-python ai_assistant.py
+- cd python-learning-ai-assistant
+- python ai_assistant.py
 
 ## Topics Covered
 Hello World - Your first Python program
